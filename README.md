@@ -23,26 +23,47 @@ This file contains a number of front-end interview questions that can be used wh
 #### General Questions:
 
 * What did you learn yesterday/this week?
+* คุณเรียนรู้หรือศึกษาอะไรบ้างเมื่อวานหรือในช่วงสัปดาห์ที่ผ่านมา
 * What excites or interests you about coding?
+* สำหรับคุณอะไรคือความตื่นเต้นหรือความน่าสนใจเกี่ยวกับ coding
 * What is a recent technical challenge you experienced and how did you solve it?
+* คุณเจอปัญหาทางด้านเทคนิคอะไรบ้างที่ท้าทายคุณมากและคุณแก้ปัญหานั้นอย่างไร
 * What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+* UI, Security, Performance, SEO, Maintainablity หรือ Technology อะไรที่คุณพิจารณาเอามาใช้ในการสร้างเว็บไซต์หรือเว็บแอพพลิเคชั่น
 * Talk about your preferred development environment.
+* อธิบายเกี่ยวกับ development environment ที่คุณชื่นชอบ
 * Which version control systems are you familiar with?
+* control system version ไหนที่คุณคุ้นเคย
 * Can you describe your workflow when you create a web page?
+* อธิบาย workflow ของคุณเวลาคุณสร้างเว็บเพจ
 * If you have 5 different stylesheets, how would you best integrate them into the site?
+* ถ้าคุณมี stylesheet 5 อันที่แตกต่างกัน,คุณจะ integrate มันอย่างไร
 * Can you describe the difference between progressive enhancement and graceful degradation?
+* อธิบายความแตกต่างระหว่าง progressive enhancement และ graceful degradation
 * How would you optimize a website's assets/resources?
+* คุณมีวิธีการจัดการกับสินทรัพย์/ทรัพยากรของเว็บไซต์อย่างไรให้เหมาะสมที่สุด
 * How many resources will a browser download from a given domain at a time?
+* มี resource เท่าไหร่ที่ browser จะ dowload มาจาก domain ในการ download ครั้งนึง
   * What are the exceptions?
+  * ข้อยกเว้นของคุณมีอะไรบ้าง
 * Name 3 ways to decrease page load (perceived or actual load time).
+* อธิบาย 3 ทางที่จะลด page load
 * If you jumped on a project and they used tabs and you used spaces, what would you do?
+* ถ้าคุณต้องเข้าไปอยู่ในโปรเจคที่ดำเนินการไปแล้วและใน code นั้นใช้ tab แต่คุณใช้ space คุณจะทำอย่างไร
 * Describe how you would create a simple slideshow page.
+* อธิบายวิธีการสร้าง slideshow page อย่างง่าย
 * What tools do you use to test your code's performance?
+* คุณใช้เครื่องมืออะไรในการทดสอบ performance ของโค้ด
 * If you could master one technology this year, what would it be?
+* คุณคิดว่าถ้าปีนี้คุณเป็นผู้เชี่ยวชาญในเทคโนโลยีอะไรซักอย่าง คุณคิดว่ามันจะเป็นอะไร
 * Explain the importance of standards and standards bodies.
+* อธิบายสิ่งสำคัญของ standard และ standard bodies
 * What is Flash of Unstyled Content? How do you avoid FOUC?
+* อะไรคือ flash of unstyled content และคุณมีวิธีหลีกเลี่ยง FOUC อย่างไร
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
+* อะไรคือ ARIA และ screenreader จงอธิบาย และจะมีวิธีการสร้างเว็บไซต์ accessible อย่างไรบ้าง
 * Explain some of the pros and cons for CSS animations versus JavaScript animations.
+* อธิบายตัวอย่างของ pros และ cons สำหรับ CSS animation VS javascript animation
 
 #### HTML Questions:
 
