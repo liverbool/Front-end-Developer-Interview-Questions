@@ -68,17 +68,25 @@ This file contains a number of front-end interview questions that can be used wh
 #### HTML Questions:
 
 * What does a `doctype` do?
+* 'doctype' ทำงานอย่างไร
 * What's the difference between standards mode and quirks mode?
+* standards mode และ quirks mode แตกต่างกันอย่างไร
 * What's the difference between HTML and XHTML?
+* HTML และ XHTML แตกต่างกันอย่างไร
 * Are there any problems with serving pages as `application/xhtml+xml`?
 * How do you serve a page with content in multiple languages?
 * What kind of things must you be wary of when design or developing for multilingual sites?
+* อะไรคือสิ่งที่คุณจะต้องระมัดระวังเวลาคุณดีไซน์หรือพัฒนาเว็บไซต์หลายภาษา
 * What are `data-` attributes good for?
+* attribute 'data-' ดีอย่างไร
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+* อธิบายความแตกต่างระหว่าง 'cookie', 'sessionStorage' และ 'localStorage'
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
+* อธิบายความแตกต่างระหว่าง '<script>', <script async>' และ '<script defer>'
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
 * What is progressive rendering?
+* progressive rendering คืออะไร
 
 #### CSS Questions:
 
