@@ -138,11 +138,16 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What are the pros and cons of using Promises instead of callbacks?
 
 #### Network Questions:
+#### ระบบเครือข่าย:
 
 * Traditionally, why has it been better to serve site assets from multiple domains?
+* โดยทั่วไปแล้ว ทำไมการใช้งานไฟล์จำพวก assets จากหลายๆ โดเมนจึงเป็นสิ่งที่ดีกว่า?
 * Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
+* ลองอธิบายกระบวนการทำงานตั้งแต่ตอนที่คุณพิมพ์ URL บนเว็บบราวเซอร์ จนกระทั้งเว็บไซต์โหลดเสร็จมาดู
 * What are the differences between Long-Polling, Websockets and Server-Sent Events?
+* อะไรคือความแตกต่างระหว่าง Long-Polling, Websockets และ Server-Sent Events?
 * Explain the following request and response headers:
+* ช่วยอธิบาย request และ response headers เหล่านี้:
   * Diff. between Expires, Date, Age and If-Modified-...
   * Do Not Track
   * Cache-Control
@@ -150,31 +155,38 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
   * ETag
   * X-Frame-Options
 * What are HTTP actions? List all HTTP actions that you know, and explain them. 
+* HTTP actions คืออะไร? ช่วยลิสต์รายการ HTTP actions ที่คุณรู้จักมา และอธิบายด้วย
 
 #### Coding Questions:
+#### การเขียนโปรแกรม
 
 *Question: What is the value of `foo`?*
+*คำถาม: `foo` คืนค่าอะไร?*
 ```javascript
 var foo = 10 + '20';
 ```
 
 *Question: How would you make this work?*
+*คำถาม: คุณควรจะเขียนแบบไหนระหว่างสองคำสั่งด้านล่าง?*
 ```javascript
 add(2, 5); // 7
 add(2)(5); // 7
 ```
 
 *Question: What value is returned from the following statement?*
+*คำถาม: คำสั่งด้านล่างจะให้คืนค่าอะไร?*
 ```javascript
 "i'm a lasagna hog".split("").reverse().join("");
 ```
 
 *Question: What is the value of `window.foo`?*
+*คำถาม: `window.foo` จะให้ค่าอะไร?*
 ```javascript
 ( window.foo || ( window.foo = "bar" ) );
 ```
 
 *Question: What is the outcome of the two alerts below?*
+*คำถาม: การ alerts ทั้งสองอย่างด้านล่าง จะให้ค่าอะไรบ้าง?*
 ```javascript
 var foo = "Hello";
 (function() {
@@ -185,6 +197,7 @@ alert(foo + bar);
 ```
 
 *Question: What is the value of `foo.length`?*
+*คำถาม: `foo.length` จะให้ค่าอะไร?*
 ```javascript
 var foo = [];
 foo.push(1);
@@ -192,12 +205,18 @@ foo.push(2);
 ```
 
 #### Fun Questions:
+#### ขำๆ:
 
 * What's a cool project that you've recently worked on?
+* คุณมีโปรเจ็คอะไรเยี่ยมๆที่กำลังทำอยู่ไหม?
 * What are some things you like about the developer tools you use?
+* คุณมีเครื่องมืออะไรบ้างที่ชอบใช้งานสำหรับการพัฒนาโปรเจ็คของคุณ?
 * Do you have any pet projects? What kind?
+* คุณมีโปรเจ็คส่วนตัวที่คลุกคลีอยู่กับมันเป็นประจำบ้างไหม? มันเกี่ยวกับอะไร?
 * What's your favorite feature of Internet Explorer?
+* มีคุณสมบัติอะไรของ Internet Explorer ที่คุณชอบบ้าง?
 * How do you like your coffee?
+* คุณชอบกาแฟที่คุณดื่มอยู่เป็นประจำหรือเปล่า?
 
 
 #### Contributors:
