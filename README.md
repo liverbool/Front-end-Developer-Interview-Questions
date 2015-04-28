@@ -83,10 +83,11 @@ This file contains a number of front-end interview questions that can be used wh
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 * อธิบายความแตกต่างระหว่าง 'cookie', 'sessionStorage' และ 'localStorage'
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
-* อธิบายความแตกต่างระหว่าง '<script>', <script async>' และ '<script defer>'
+* อธิบายความแตกต่างระหว่าง `<script>`, `<script async>` and `<script defer>`.
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
 * What is progressive rendering?
 * progressive rendering คืออะไร
+
 
 #### CSS Questions:
 
