@@ -33,7 +33,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Talk about your preferred development environment.
 * อธิบายเกี่ยวกับ development environment ที่คุณชื่นชอบ
 * Which version control systems are you familiar with?
-* control system version ไหนที่คุณคุ้นเคย
+* Version control system ไหนที่คุณคุ้นเคย
 * Can you describe your workflow when you create a web page?
 * อธิบาย workflow ของคุณเวลาคุณสร้างเว็บเพจ
 * If you have 5 different stylesheets, how would you best integrate them into the site?
