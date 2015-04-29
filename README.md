@@ -143,15 +143,19 @@ This file contains a number of front-end interview questions that can be used wh
 #### JS Questions:
 
 * Explain event delegation
+* อธิบายลักษณะของ event delegation
 * Explain how `this` works in JavaScript
+* อธิบายว่า `this` ทำงานอย่างไรใน JavaScript
 * Explain how prototypal inheritance works
+* อธิบายการ inherite prototy ใน JavaScript
 * How do you go about testing your JavaScript?
+* คุณทำการทดสอบ (Testing) JavaScript อย่างไร?
 * What do you think of AMD vs CommonJS?
+* คุณมีความเห็นอย่างไรเกี่ยวกับ AMD และ CommonJS?
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
+* อธิบายว่าทำไมการเขียนลักษณะนี้จึงทำงานไม่ได้ IIFE: `function foo(){ }();`
   * What needs to be changed to properly make it an IIFE?
-* What's the difference between a variable that is: `null`, `undefined` or `undeclared`?
-  * How would you go about checking for any of these states?
-* What is a closure, and how/why would you use one?
+  * คำอย่างไรตัวอย่างด้านบนถึงจะทำงานในลักษณะของ IIFE ได้อย่างถูกต้อง?
 * What's a typical use case for anonymous functions?
 * How do you organize your code? (module pattern, classical inheritance?)
 * What's the difference between host objects and native objects?
@@ -185,7 +189,6 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What are the pros and cons of using Promises instead of callbacks?
 
 #### Network Questions:
-#### ระบบเครือข่าย:
 
 * Traditionally, why has it been better to serve site assets from multiple domains?
 * โดยทั่วไปแล้ว ทำไมการใช้งานไฟล์จำพวก assets จากหลายๆ โดเมนจึงเป็นสิ่งที่ดีกว่า?
@@ -205,7 +208,6 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * HTTP actions คืออะไร? ช่วยลิสต์รายการ HTTP actions ที่คุณรู้จักมา และอธิบายด้วย
 
 #### Coding Questions:
-#### การเขียนโปรแกรม
 
 *Question: What is the value of `foo`?*
 *คำถาม: `foo` คืนค่าอะไร?*
@@ -252,7 +254,6 @@ foo.push(2);
 ```
 
 #### Fun Questions:
-#### ขำๆ:
 
 * What's a cool project that you've recently worked on?
 * คุณมีโปรเจ็คอะไรเยี่ยมๆที่กำลังทำอยู่ไหม?
