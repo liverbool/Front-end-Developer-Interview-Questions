@@ -41,7 +41,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * อธิบายความแตกต่างระหว่าง progressive enhancement และ graceful degradation
 * How would you optimize a website's assets/resources?
-* คุณมีวิธีการจัดการกับสินทรัพย์/ทรัพยากรของเว็บไซต์อย่างไรให้เหมาะสมที่สุด
+* คุณมีวิธีการจัดการกับ website's asset / resource อย่างไรให้มีประสิทธิภาพมากที่สุด
 * How many resources will a browser download from a given domain at a time?
 * มี resource เท่าไหร่ที่ browser จะ dowload มาจาก domain ในการ download ครั้งนึง
   * What are the exceptions?
@@ -94,24 +94,40 @@ This file contains a number of front-end interview questions that can be used wh
 * What is the difference between classes and ID's in CSS?
 * อะไรคือความแตกต่างระหว่าง classes และ ID's ใน CSS
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+* อะไรคือความแตกต่างระหว่าง "resetting" และ "normalizing" CSS และคุณเลือกใช้อันไหน เพราะอะไร
 * Describe Floats and how they work.
+* กรุณาอธิบาย Float และมันทำงานอย่างไร
 * Describe z-index and how stacking context is formed.
+* กรุณาอธิบาย z-index และ how stacking context is formed
 * What are the various clearing techniques and which is appropriate for what context?
+* 
 * Explain CSS sprites, and how you would implement them on a page or site.
+* อธิบาย CSS sprite และคุณมีวิธีการ implement มันบนเพจ หรือเว็บไซต์อย่างไร
 * What are your favourite image replacement techniques and which do you use when?
+* เทคนิคการ replace รูปภาพที่คุณชอบใช้คืออะไร และคุณจะใช้มันเมื่อไหร่บ้าง
 * How would you approach fixing browser-specific styling issues?
+* 
 * How do you serve your pages for feature-constrained browsers?
   * What techniques/processes do you use?
 * What are the different ways to visually hide content (and make it available only for screen readers)?
 * Have you ever used a grid system, and if so, what do you prefer?
+* คุณเคยใช้ grid system หรือไม่ ถ้าเคย คุณชอบอะไร
 * Have you used or implemented media queries or mobile specific layouts/CSS?
+* คุณเคยใช้หรือ implement media queries หรือ mobile specific layout/CSS มาก่อนหรือไม่
 * Any familiarity with styling SVG?
+* คุณคุ้นเคยกับ styling SVG ขนาดไหน
 * How do you optimize your webpages for print?
+* คุณมีวิธีการ optimize เว็บเพจของคุณสำหรับการปริ๊นอย่างไร
 * What are some of the "gotchas" for writing efficient CSS?
+* 
 * What are the advantages/disadvantages of using CSS preprocessors?
+* การใช้ CSS preprocessor มีข้อดีข้อเสียอย่างไร
   * Describe what you like and dislike about the CSS preprocessors you have used.
+  * อธิบายสิ่งที่คุณชอบหรือไม่ชอบเกี่ยวกับการใช้ CSS preprocessor ที่คุณเคยใช้มา
 * How would you implement a web design comp that uses non-standard fonts?
+* คุณมีวิธีการ implement เว็บ ที่ไม่ได้ใช้ font standard อย่างไร
 * Explain how a browser determines what elements match a CSS selector.
+* 
 * Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
 * What does ```* { box-sizing: border-box; }``` do? What are its advantages?
 * List as many values for the display property that you can remember.
